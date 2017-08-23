@@ -5,7 +5,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .welcome{
-    background:#b14848;
+    background:#4d6a98;
     height:100%;
 }
 .profile{
@@ -42,7 +42,7 @@ body{
 }
 .footer nav h5{
     font-weight: bold;
-    color:#b14848;
+    color:#4d6a98;
     margin:15px 0;
     font-size:14px;
     text-transform: uppercase;
@@ -62,6 +62,6 @@ body{
     transition: 0.125s linear all;
 }
 .footer nav li a:hover, .footer nav li a:active{
-    color:#b14848;
+    color:#4d6a98;
     text-decoration: none;    
 }
