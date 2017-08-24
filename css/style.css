@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 /*html, body{
     height: 100%;
 }*/
 .fullscreen{
+=======
+html, body{
+    height:100%;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.welcome{
+    background:#b14848;
+>>>>>>> parent of 6603b61... Red to Blue
     height:100%;
     background-color:#6b7d98;
     background-image: url(/img/bg.png);
@@ -22,4 +33,37 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
+<<<<<<< HEAD
 }*/
+=======
+}
+.footer nav section{
+    text-align: center;
+    margin:0 20px;
+}
+.footer nav h5{
+    font-weight: bold;
+    color:#b14848;
+    margin:15px 0;
+    font-size:14px;
+    text-transform: uppercase;
+}
+.footer nav ul{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+.footer nav li{
+    margin:10px 0;
+}
+.footer nav li a{
+    color:#454545;   
+    font-size: 15px;
+    display:block;
+    transition: 0.125s linear all;
+}
+.footer nav li a:hover, .footer nav li a:active{
+    color:#b14848;
+    text-decoration: none;    
+}
+>>>>>>> parent of 6603b61... Red to Blue
